@@ -1,5 +1,5 @@
 //added new line for test pull SCM 
-....
+.... GITHUB TRIGGER
 //test multibranch...
 # java-tomcat-maven-example
 #adding devops
