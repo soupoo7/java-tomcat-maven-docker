@@ -1,4 +1,4 @@
-//added new line for test pull SCM 
+//added new line for test poll SCM 
 .... GITHUB TRIGGER
 //test multibranch...
 # java-tomcat-maven-example
